@@ -1,0 +1,19 @@
+{
+  "Alumno": [
+    {
+      "name": "Omar Garrido",
+      "tel": "5532736832",
+      "email": "omargm1999@hotmail.com"
+    },
+    {
+      "name": "Itzel Carolina",
+      "tel": "987654321",
+      "email": "luzc98@gmail.com"
+    },
+    {
+      "name": "Jose De Jesus",
+      "tel": "123456789",
+      "email": "Muñoz999@yahoo.com"
+    }
+  ]
+}
